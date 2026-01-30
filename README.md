@@ -1,0 +1,2 @@
+# hot-trending-bot
+hot
